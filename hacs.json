@@ -1,5 +1,4 @@
 {
   "name": "Moving Intelligence",
-  "render_readme": true,
-  "domains": ["moving_intelligence"]
+  "render_readme": true
 }
