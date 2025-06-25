@@ -25,7 +25,7 @@ This integration provides:
 3. Click the three-dots menu in the top right corner and select **Custom repositories**.
 4. In the `Repository` field, add the following URL: 
 
-        https://github.com/Raznor09/moving_intelligence_ha-integration
+        https://github.com/Raznor09/moving_intelligence
 
 5. In the `Category` dropdown, select **Integration**.
 6. Click **Add**.
