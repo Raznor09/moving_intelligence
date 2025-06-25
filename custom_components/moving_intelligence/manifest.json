@@ -1,0 +1,12 @@
+{
+  "domain": "moving_intelligence",
+  "name": "Moving Intelligence",
+  "config_flow": true,
+  "documentation": "https://github.com/Raznor09/moving_intelligence_ha-integration",
+  "issue_tracker": "https://github.com/Raznor09/moving_intelligence_ha-integration/issues",
+  "codeowners": ["@Raznor09"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "after_dependencies": ["http"]
+}

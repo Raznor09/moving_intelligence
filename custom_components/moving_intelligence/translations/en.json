@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Moving Intelligence",
+        "description": "Please enter your username and API key.",
+        "data": {
+          "username": "Username",
+          "apikey": "API key"
+        }
+      }
+    },
+    "error": {
+      "not_logged_in": "Invalid authentication. Please check your username and API key.",
+      "unknown": "An unexpected error occurred."
+    }
+  }
+}

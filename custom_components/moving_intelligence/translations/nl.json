@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Moving Intelligence",
+        "description": "Voer uw gebruikersnaam en API-sleutel in.",
+        "data": {
+          "username": "Gebruikersnaam",
+          "apikey": "API-sleutel"
+        }
+      }
+    },
+    "error": {
+      "not_logged_in": "Ongeldige authenticatie. Controleer uw gebruikersnaam en API-sleutel.",
+      "unknown": "Er is een onverwachte fout opgetreden."
+    }
+  }
+}
