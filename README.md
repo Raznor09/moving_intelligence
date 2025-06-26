@@ -1,5 +1,9 @@
 # Moving Intelligence Integration for Home Assistant
-
+<p align="left">
+  <a href="https://github.com/hacs/default" target="_blank"><img src="https://img.shields.io/badge/HACS-Default-21B4F0.svg?style=for-the-badge" alt="HACS Default"></a>
+  <a href="https://github.com/Raznor09/moving_intelligence/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/Raznor09/moving_intelligence?style=for-the-badge" alt="GitHub Release"></a>
+  <a href="https://github.com/Raznor09/moving_intelligence/releases" target="_blank"><img src="https://img.shields.io/github/downloads/Raznor09/moving_intelligence/total?style=for-the-badge" alt="Total Downloads"></a>
+</p>
 <img src="https://cdn.shopify.com/s/files/1/0121/0220/5499/files/MicrosoftTeams-image_18.png" alt="Moving Intelligence" width="400px">
 
 ---
