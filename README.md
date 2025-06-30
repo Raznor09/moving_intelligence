@@ -2,7 +2,7 @@
 <p align="left">
   <a href="https://github.com/hacs/default" target="_blank"><img src="https://img.shields.io/badge/HACS-Default-53b3ff.svg?style=for-the-badge" alt="HACS Default"></a>
   <a href="https://github.com/Raznor09" target="_blank"><img src="https://img.shields.io/badge/GitHub-Raznor09-7e1ab2?style=for-the-badge&logo=github" alt="Raznor09 on GitHub"></a>
-  <a href="https://github.com/Raznor09/moving_intelligence/releases/latest" target="_blank"><img src="https://img.shields.io/github/v/release/Raznor09/moving_intelligence?style=for-the-badge?style=for-the-badge&label=Release&color=1ab21a" alt="GitHub Release"></a>
+    <a href="[https://github.com/Raznor09/raznor-obsidian/releases/latest](https://github.com/Raznor09/moving_intelligence/releases/latest)" target="_blank"><img src="[https://img.shields.io/github/v/release/Raznor09/raznor-obsidian](https://img.shields.io/github/v/release/Raznor09/moving_intelligence?style=for-the-badge&label=Release&color=1ab21a" alt="GitHub Release"></a>
   <a href="https://github.com/Raznor09/moving_intelligence/releases" target="_blank"><img src="https://img.shields.io/github/downloads/Raznor09/moving_intelligence/total?style=for-the-badge&color=ff1a1a" alt="Total Downloads"></a>
   <a href="https://coff.ee/raznor09" target="_blank"><img src="https://img.shields.io/badge/COFFEE-ffb21a?style=for-the-badge&label=BUY%20ME%20A" alt="Buy me a coffee"></a>
 </p>
