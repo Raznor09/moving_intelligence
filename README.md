@@ -27,24 +27,12 @@ This integration provides:
 
 ### HACS (Recommended)
 
-1. Ensure you have [HACS](https://hacs.xyz/docs/use/).
-2. In Home Assistant, go to **HACS** > **Integrations**.
-3. Click the three-dots menu in the top right corner and select **Custom repositories**.
-4. In the `Repository` field, add the following URL: 
-
-        https://github.com/Raznor09/moving_intelligence
-
-5. In the `Category` dropdown, select **Integration**.
-6. Click **Add**.
-7. The `Moving Intelligence` will now appear in your HACS store. Click on it, and then click on **Download**
-8. In the window that pops up, click the **Download** button again to install.
-9. Restart Home Assistant when prompted.
-
-### Quick Install
+Ensure you have [HACS](https://hacs.xyz/docs/use/).
 
 Use this link to directly go to the repository in HACS and add it to your Home Assistant.
 
 <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=Raznor09&repository=moving_intelligence&category=integration" target="_blank" rel="noreferrer noopener"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open in HACS" /></a>
+
 ---
 
 <details>
