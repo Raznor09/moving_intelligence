@@ -40,6 +40,11 @@ This integration provides:
 8. In the window that pops up, click the **Download** button again to install.
 9. Restart Home Assistant when prompted.
 
+### Quick Install
+
+Use this link to directly go to the repository in HACS and add it to your Home Assistant.
+
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=Raznor09&repository=moving_intelligence&category=integration" target="_blank" rel="noreferrer noopener"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open in HACS" /></a>
 ---
 
 <details>
